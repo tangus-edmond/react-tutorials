@@ -1,2 +1,3 @@
-# react-tutorials
-React is an open source, JavaScript library for developing user interface (UI) in web application.
+# HTTP Requests
+
+This sample application utilizes Firebase REST APIs to fetch and send data to the database.
